@@ -11,11 +11,11 @@ You will need to get access to the REFUGE dataset. See [here](https://refuge.gra
 We would appreciate it if the following reference would be included in any published work that uses this resource:
 
    > @article{pascal2022multi,
-  title={Multi-task deep learning for glaucoma detection from color fundus images},
-  author={Pascal, Lucas and Perdomo, Oscar J and Bost, Xavier and Huet, Benoit and Ot{\'a}lora, Sebastian and Zuluaga, Maria A},
-  journal={Scientific Reports},
-  volume={12},
-  number={1},
-  pages={12361},
-  year={2022}
-}
+  title={Multi-task deep learning for glaucoma detection from color fundus images}, \\
+  author={Pascal, Lucas and Perdomo, Oscar J and Bost, Xavier and Huet, Benoit and Ot{\'a}lora, Sebastian and Zuluaga, Maria A},\\
+  journal={Scientific Reports},\\
+  volume={12},\\
+  number={1},\\
+  pages={12361},\\
+  year={2022}\\
+}\\
